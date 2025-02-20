@@ -11,7 +11,7 @@ Download models from https://ollama.com/search
 
 ## 3. Initialize Spring Framework
 Verify my Repositorie ABOVE and 
-to initialize Spring use https://start.spring.io/
+to initialize Spring use https://start.spring.io/ (Prefer Maven)
 
 ## 4. Finally Run and test the Model
 
