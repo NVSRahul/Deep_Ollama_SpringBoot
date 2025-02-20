@@ -8,7 +8,8 @@ Download from here https://ollama.com/
 Download models from https://ollama.com/search
 
 ## 3. Initialize Spring Framework
-Verify my Repositorie ABOVE
+Verify my Repositorie ABOVE and 
+to initialize Spring use https://start.spring.io/
 
 ## 4. Finally Run and test the Model
 
