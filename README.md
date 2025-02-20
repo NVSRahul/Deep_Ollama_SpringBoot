@@ -1,6 +1,8 @@
 # Spring Boot API for Local AI Model Integration with Ollama: DeepSeek and Beyond
 This Spring Boot project enables running DeepSeek locally using Ollama, providing a seamless API to interact with the model. It leverages Ollama's flexibility to deploy and manage AI models, making it easy to integrate DeepSeek or other Ollama-supported models. The API allows for smooth communication, enabling tasks like text generation, analysis, and more. Designed for extensibility, the project can be adapted to work with any AI model available in Ollama.
 
+Im this project HTML is frontend and java is backend
+
 ## 1. Install ollama
 Download from here https://ollama.com/
 
